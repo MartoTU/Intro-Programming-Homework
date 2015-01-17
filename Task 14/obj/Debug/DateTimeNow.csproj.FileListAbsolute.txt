@@ -1,0 +1,6 @@
+C:\Users\USER\documents\visual studio 2012\Projects\Intro-Programming-Homework\DateTimeNow\bin\Debug\DateTimeNow.exe.config
+C:\Users\USER\documents\visual studio 2012\Projects\Intro-Programming-Homework\DateTimeNow\bin\Debug\DateTimeNow.exe
+C:\Users\USER\documents\visual studio 2012\Projects\Intro-Programming-Homework\DateTimeNow\bin\Debug\DateTimeNow.pdb
+C:\Users\USER\documents\visual studio 2012\Projects\Intro-Programming-Homework\DateTimeNow\obj\Debug\DateTimeNow.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2012\Projects\Intro-Programming-Homework\DateTimeNow\obj\Debug\DateTimeNow.exe
+C:\Users\USER\documents\visual studio 2012\Projects\Intro-Programming-Homework\DateTimeNow\obj\Debug\DateTimeNow.pdb
